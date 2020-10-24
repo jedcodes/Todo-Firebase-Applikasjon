@@ -1,0 +1,10 @@
+.todo {
+  border: 1px solid #111;
+  min-width: 30rem;
+
+  &__buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+  }
+}
